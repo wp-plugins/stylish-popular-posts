@@ -52,6 +52,8 @@ If the current style does not match your Theme, you can modify ../stylish-popula
 3. Stylish popular posts - without post number.
 
 == Changelog ==
+= 1.1 =
+* Updated the css file 
 
 = 1.0 =
 * Initial release.

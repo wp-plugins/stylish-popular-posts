@@ -2,7 +2,7 @@
 Plugin Name: tylish Popular Posts
 Plugin URI: https://github.com/dolatabadi/WordPress-Plugins/tree/master/stylish-popular-posts
 Description: Description: This plugin creates a widget which shows top popular posts based on the number of comments. You can specify the number of posts to display.
-Version: 1.0
+Version: 1.1
 Author: Dolatabadi
 Author URI: https://github.com/dolatabadi
 License: GNU General Public License v2
@@ -11,7 +11,6 @@ License: GNU General Public License v2
 {
 	height: auto;
 	margin-bottom: 40px;
-	max-height: 180px;
 	position: relative;
 	width: 100%;
 }

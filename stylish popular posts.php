@@ -3,7 +3,7 @@
  * Plugin Name: Stylish Popular Posts
  * Plugin URI: https://github.com/dolatabadi/WordPress-Plugins/tree/master/stylish-popular-posts
  * Description: This plugin creates a widget which shows top popular posts based on the number of comments. You can specify the number of posts to display.
- * Version: 1.0
+ * Version: 1.1
  * Author: Dolatabadi
  * Author URI: https://github.com/dolatabadi
  * License: GNU General Public License v2
