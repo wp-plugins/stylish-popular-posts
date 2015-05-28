@@ -20,6 +20,7 @@ This plugin uses custom thumbnails, you can use [Regenerate Thumbnails](http://w
 
 = Translations =
 To translate the plugin to a particular language, use the file provided in /languages/ folder.
+French translation was added on May 28, 2015 - Thanks to Zenoble
 
 == Installation ==
 
